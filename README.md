@@ -1,4 +1,3 @@
-name=README.md
 # Too Well - Premium Towel E-Commerce Store
 
 A modern, fully-functional e-commerce website for **Too Well**, featuring 7 product categories with 21 unique products.
@@ -18,10 +17,24 @@ A modern, fully-functional e-commerce website for **Too Well**, featuring 7 prod
 ✅ **Shopping Cart** - Add/remove items with persistent storage  
 ✅ **Product Customization** - Personalize gift towels with names & colors  
 ✅ **Responsive Design** - Works perfectly on mobile, tablet, desktop  
+✅ **Interactive Animations** - Smooth transitions, hover effects, and micro-interactions  
 ✅ **Toast Notifications** - Instant feedback for user actions  
 ✅ **Contact Form** - Easy customer communication  
-✅ **Modern Animations** - Smooth transitions and effects  
 ✅ **LocalStorage** - Cart saves even after closing browser  
+
+## 🎬 NEW: Interactive Animations
+
+This website now features **20+ premium animations** including:
+- ✨ Smooth page entrance animations
+- 🎯 Interactive hover effects on all elements
+- 💫 Ripple & glow effects on buttons
+- 🌊 Staggered animations for product cards
+- 🎪 Floating and bouncing effects
+- 🔄 Scale, rotation, and transform effects
+- 🌈 Gradient animations
+- 📱 Responsive animations for mobile
+
+**Hard refresh your browser to see the new animations!** (Ctrl+Shift+R or Cmd+Shift+R)
 
 ## 🚀 Getting Started
 
